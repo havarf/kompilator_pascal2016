@@ -1,0 +1,15 @@
+Binding on line 3: integer was declared as <type decl> integer in the library
+Binding on line 5: i was declared as <var decl> i on line 3
+Type check := on line 5: type Integer vs type Integer
+Binding on line 6: i was declared as <var decl> i on line 3
+Binding on line 6: n was declared as <const decl> n on line 2
+Type check < operands on line 6: type Integer vs type Integer
+Type check while-test on line 6: type Boolean vs type Boolean
+Binding on line 7: write was declared as <proc decl> write in the library
+Binding on line 7: i was declared as <var decl> i on line 3
+Binding on line 7: i was declared as <var decl> i on line 3
+Type check left + operand on line 7: type Integer vs type Integer
+Type check right + operand on line 7: type Integer vs type Integer
+Type check := on line 7: type Integer vs type Integer
+Binding on line 9: write was declared as <proc decl> write in the library
+Binding on line 9: eol was declared as <const decl> eol in the library
